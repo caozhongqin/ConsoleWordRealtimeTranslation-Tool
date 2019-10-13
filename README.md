@@ -6,7 +6,9 @@ ubuntu 16.04
 
 ## 依赖
 sudo apt-get install xsel
+
 sudo pip3 install pyperclip
+
 sudo npm install terminal-translate -g
 
 ## 运行
@@ -14,4 +16,5 @@ python3 clip_tl.py
 
 ## 参考
 https://www.npmjs.com/package/terminal-translate
+
 https://pyperclip.readthedocs.io/en/latest/introduction.html#not-implemented-error
