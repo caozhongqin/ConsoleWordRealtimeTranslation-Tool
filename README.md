@@ -7,6 +7,8 @@ ubuntu 16.04
 ## 依赖
 sudo apt-get install xsel
 
+sudo pip3 install regex
+
 sudo pip3 install pyperclip
 
 sudo npm install terminal-translate -g
