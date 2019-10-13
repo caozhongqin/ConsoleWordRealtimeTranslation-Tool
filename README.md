@@ -20,3 +20,6 @@ python3 clip_tl.py
 https://www.npmjs.com/package/terminal-translate
 
 https://pyperclip.readthedocs.io/en/latest/introduction.html#not-implemented-error
+
+## 效果
+![运行结果](https://github.com/caozhongqin/ConsoleWordRealtimeTranslation-Tool/blob/master/cliptl.gif?raw=true)
