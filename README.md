@@ -1,0 +1,2 @@
+# ConsoleWordRealtimeTranslation-Tool
+PYTHON控制台单词实时翻译工具
