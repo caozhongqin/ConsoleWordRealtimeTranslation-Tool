@@ -8,7 +8,7 @@ while True:
     word = pyperclip.paste()
     if word != last_word:
         last_word = word
-        if regex.fullmatch(r'\w+', word):
+        if regex.fullmatch(r'[a-zA-Z ]+', word):
             print(word)
             os.system('tl ' + word)
     time.sleep(0.5)
