@@ -5,7 +5,7 @@ import os
 
 last_word = ''
 while True:
-    word = pyperclip.paste()
+    word = pyperclip.paste().strip(' \t\n\r')
     if word != last_word:
         last_word = word
         if regex.fullmatch(r'[a-zA-Z ]+', word):
